@@ -1,2 +1,2 @@
-rootProject.name = "internshipOfficeTV"
+rootProject.name = "task1"
 
